@@ -47,6 +47,7 @@ from sklearn.decomposition import PCA
 File	Description
 
 TP_ML_V3.ipynb	Jupyter Notebook with full code and visualizations
+Telecom-Dataset Data set file
 
 
 🙏 Credits
